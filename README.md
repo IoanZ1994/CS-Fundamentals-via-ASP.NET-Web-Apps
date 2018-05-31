@@ -26,7 +26,7 @@ Challenge_12_SimpleDarts                  - https://www.devu.com/tutorials/cs-as
 
 Challenge_13_PapaBobs                     - https://www.devu.com/tutorials/cs-asp/articles/challenge-papa-bobs-mega-challenge
 
-To rebuild PapaBobs Solution.
+## To rebuild PapaBobs Solution:
 1. Create an folder in Visual Studio source folder, with name "PapaBobs". 
 2. Unzip 1-st part .rar in the foldre "PapaBobs".
 3. Inside "PapaBobs" folder, create new folder "packages".
