@@ -36,15 +36,8 @@ https://www.devu.com/tutorials/cs-asp/articles/lesson-36-challengeheromonstercla
 ## Challenge_12_SimpleDarts                  
 https://www.devu.com/tutorials/cs-asp/articles/challenge-10-challengesimpledarts
 
-## Challenge_13_PapaBobs                     
-https://www.devu.com/tutorials/cs-asp/articles/challenge-papa-bobs-mega-challenge
-
-## To rebuild PapaBobs Solution:
-1. Create an folder in Visual Studio source folder, with name "PapaBobs". 
-2. Unzip 1-st part .rar in the foldre "PapaBobs".
-3. Inside "PapaBobs" folder, create new folder "packages".
-4. Unzip part 2 and 3.
-5. Open Solution.
+## Challenge_13_PapaBobs              
+https://github.com/IoanZ1994/Pizza-Order-Form-cs
 
 Note: You should to change Connection String to Database in "Web.config" in Web layer and "packages.config"
 in PapaBobs.Persistence folder.
